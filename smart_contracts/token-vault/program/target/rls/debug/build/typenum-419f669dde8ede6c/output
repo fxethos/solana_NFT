@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/cypher/Desktop/solana_NFT/smart_contracts/token-vault/program/target/rls/debug/build/typenum-419f669dde8ede6c/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/cypher/Desktop/solana_NFT/smart_contracts/token-vault/program/target/rls/debug/build/typenum-419f669dde8ede6c/out/op.rs
